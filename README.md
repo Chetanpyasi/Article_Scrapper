@@ -25,7 +25,7 @@ myenv\Scripts\activate
 
 ### Install the requirments
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ### Run the scrapper.py
 ```

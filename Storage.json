@@ -1,0 +1,18 @@
+{
+    "_id": {
+        "$oid": "unique_object_id"
+    },
+    "headline": "Article Headline",
+    "date": "Date of Publication",
+    "description": "Short description or summary of the article.",
+    "content": "Full text or body of the article.",
+    "image_url": "URL of the article's main image",
+    "author": "Author of the article",
+    "tags": ["tag1", "tag2", "tag3"],  // Optional tags or categories
+    "url": "URL of the article",
+    "source": "Source name or website",
+    "language": "Language of the article",
+    "publisher": "Publisher of the article",
+    "created_at": "Timestamp of when the data was scraped",
+    "updated_at": "Timestamp of the last update to the data"
+}

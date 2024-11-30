@@ -31,6 +31,10 @@ pip install -r requirements.txt
 ```
 python scrapper.py
 ```
+### Display the stored data after scrapping
+```
+python Display.py
+```
 
 # Description
 This project uses python libraries to scrap throught news webpages and store the relevent data in mongo db in Storage.json file formate. 

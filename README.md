@@ -3,7 +3,10 @@ This is a python code that automatically scrapes through the website in search f
 
 # Prerequisites
 ## MongoDB
-* Make sure MongoDB is installed, if not install from the official website: ```https://www.mongodb.com/try/download/community```
+* Make sure MongoDB is installed, if not install from the official website:
+  ```
+  https://www.mongodb.com/try/download/community
+  ```
 * Follow the installation instructions for your operating system.
 * Start the MongoDB server:
   ```

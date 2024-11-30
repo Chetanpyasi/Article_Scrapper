@@ -31,3 +31,6 @@ python scrapper.py
 
 # Description
 This project uses python libraries to scrap throught news webpages and store the relevent data in mongo db in Storage.json file formate. 
+
+> [!NOTE]
+> Paste the urls to be scrapped in urls.txt.
